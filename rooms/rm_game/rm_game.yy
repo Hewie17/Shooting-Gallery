@@ -39,7 +39,7 @@
         },
         {
             "__type": "GMRBackgroundLayer_Model:#YoYoStudio.MVCFormat",
-            "name": "Water_bg",
+            "name": "Curtain_bg",
             "id": "1d63d6c9-4ef2-4b4f-a344-ffdd47d40d06",
             "animationFPS": 15,
             "animationSpeedType": "0",
@@ -74,7 +74,7 @@
         },
         {
             "__type": "GMRBackgroundLayer_Model:#YoYoStudio.MVCFormat",
-            "name": "Curtain_bg",
+            "name": "Water_bg",
             "id": "eb9d8a87-f157-4abe-a25d-b6f22471626b",
             "animationFPS": 15,
             "animationSpeedType": "0",
@@ -109,7 +109,7 @@
         },
         {
             "__type": "GMRBackgroundLayer_Model:#YoYoStudio.MVCFormat",
-            "name": "Background",
+            "name": "Wood_bg",
             "id": "2cd49139-bfb3-43f1-b4b5-bfa4712207d0",
             "animationFPS": 15,
             "animationSpeedType": "0",
@@ -117,7 +117,7 @@
             "depth": 300,
             "grid_x": 32,
             "grid_y": 32,
-            "hierarchyFrozen": true,
+            "hierarchyFrozen": false,
             "hierarchyVisible": true,
             "hspeed": 0,
             "htiled": true,
@@ -129,7 +129,7 @@
 
             ],
             "m_parentID": "00000000-0000-0000-0000-000000000000",
-            "m_serialiseFrozen": true,
+            "m_serialiseFrozen": false,
             "modelName": "GMRBackgroundLayer",
             "mvc": "1.0",
             "spriteId": "62497016-f4e6-423e-a166-f32c62781be4",
