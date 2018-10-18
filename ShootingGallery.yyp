@@ -39,6 +39,14 @@
             }
         },
         {
+            "Key": "0c0242eb-8101-46bc-b847-13c6b259009f",
+            "Value": {
+                "id": "f455c39d-ce7d-4a17-9ea5-4032980990b6",
+                "resourcePath": "objects\\obj_gameover\\obj_gameover.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "18b44a49-8be7-4e85-ab93-20c0559b439f",
             "Value": {
                 "id": "f9a78680-7bf7-4226-91ce-8b72e7dd3ff2",
@@ -207,6 +215,14 @@
             }
         },
         {
+            "Key": "9e0c6d72-7b0b-4bb7-bb84-52a9c8852376",
+            "Value": {
+                "id": "3591160f-ee41-476e-adb6-a50e5aea0058",
+                "resourcePath": "sprites\\spr_ammo\\spr_ammo.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "a7236a19-b78d-48fa-97b9-a17d7c88a599",
             "Value": {
                 "id": "a1bf5f4a-7d76-4c8b-80ad-7c076843e817",
@@ -228,6 +244,14 @@
                 "id": "579eadf1-7940-4667-9bda-bdd2176f0523",
                 "resourcePath": "views\\bbd92acb-a4b7-423d-bd27-882d46e3ab25.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "beab71db-be53-4509-9226-1b091de2dd13",
+            "Value": {
+                "id": "5678bf00-5d4a-448e-9fa8-77caec8f2edf",
+                "resourcePath": "fonts\\font_in_game\\font_in_game.yy",
+                "resourceType": "GMFont"
             }
         },
         {
@@ -271,14 +295,6 @@
             }
         },
         {
-            "Key": "ed89d859-a5de-4bd8-bc11-b5c0f2d70739",
-            "Value": {
-                "id": "d7c74474-0f9d-4277-bf03-d5bf5c3e1af5",
-                "resourcePath": "sprites\\sprite8\\sprite8.yy",
-                "resourceType": "GMSprite"
-            }
-        },
-        {
             "Key": "f0f4102f-444f-4a6e-becd-d5264ff208bd",
             "Value": {
                 "id": "f8d9e3a9-1649-45e2-bb9a-76593f0e2890",
@@ -308,6 +324,14 @@
                 "id": "6939c41f-e825-4e4a-9347-6a29c0d9ce00",
                 "resourcePath": "views\\f89db81c-fe70-4c21-9d27-44e96981659c.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "faf29f25-ef11-4c8e-9dbf-a8b9f73251eb",
+            "Value": {
+                "id": "0ef0d7b8-628c-495c-ba94-4054e448df56",
+                "resourcePath": "objects\\obj_final_score\\obj_final_score.yy",
+                "resourceType": "GMObject"
             }
         }
     ],
