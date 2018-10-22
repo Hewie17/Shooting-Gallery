@@ -13,3 +13,12 @@ __dnd_score += real(50);
 /// @DnDVersion : 1
 /// @DnDHash : 4FB8E0A0
 instance_destroy();
+
+/// @DnDAction : YoYo Games.Instances.Create_Instance
+/// @DnDVersion : 1
+/// @DnDHash : 4DF401C4
+/// @DnDArgument : "xpos_relative" "1"
+/// @DnDArgument : "ypos_relative" "1"
+/// @DnDArgument : "objectid" "obj_reload"
+/// @DnDSaveInfo : "objectid" "fe73a389-89c4-4fb1-b72e-318b37353099"
+instance_create_layer(x + 0, y + 0, "Instances", obj_reload);

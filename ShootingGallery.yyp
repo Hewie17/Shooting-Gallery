@@ -95,6 +95,14 @@
             }
         },
         {
+            "Key": "3e8513f6-b75b-42c0-a52b-ef4386621d98",
+            "Value": {
+                "id": "76b8d3d1-c653-4b9e-87e5-33335e39ab6a",
+                "resourcePath": "objects\\obj_restart_game\\obj_restart_game.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "402d6112-b047-4447-aa53-194f5579f655",
             "Value": {
                 "id": "24581929-a7fc-4031-8496-630f1b2cc009",
@@ -107,6 +115,14 @@
             "Value": {
                 "id": "406cb355-7f23-4718-9f57-0925605f71c3",
                 "resourcePath": "sprites\\spr_bg_wood\\spr_bg_wood.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "67fc0c58-8217-4513-a0d2-c60f4fffd386",
+            "Value": {
+                "id": "a7f31023-98b9-474e-a60d-cfb8e693fe9d",
+                "resourcePath": "sprites\\spr_reload\\spr_reload.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -331,6 +347,14 @@
             "Value": {
                 "id": "0ef0d7b8-628c-495c-ba94-4054e448df56",
                 "resourcePath": "objects\\obj_final_score\\obj_final_score.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "fe73a389-89c4-4fb1-b72e-318b37353099",
+            "Value": {
+                "id": "9d457e57-eaef-4db0-b164-cb8e22c948e0",
+                "resourcePath": "objects\\obj_reload\\obj_reload.yy",
                 "resourceType": "GMObject"
             }
         }
